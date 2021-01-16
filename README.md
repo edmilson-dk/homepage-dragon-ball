@@ -25,14 +25,16 @@ The project only contains a home page.
 
 Below you can see the project layout.
 
-![Dragon ball super](https://tlgur.com/d/GEzw9mPg)
+![Dragon ball super](https://tlgur.com/d/4Nk2n9E8)
+
+![Rest](https://tlgur.com/d/GYw35ZD4)
 
 <a id="demo"></a>
 ## 👀 Demo 
 
 You can view the project online at the link below
 
-[Dragon ball super]()
+[Dragon ball super](https://dksecurity99.github.io/homepage-dragon-ball/)
 
 <a id="features"></a>
 ## 🚀 Functionalities
